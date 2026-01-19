@@ -30,7 +30,7 @@ The main goal of this project is to learn how Naive Bayes works in text classifi
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SuvraHalder/SMS_SPAM_TEXT_CLASSIFICATION_MODEL_NAIVE_BAYES-/blob/main/NAIVE_BAYES_SMS_SPAM_DETECTION/image.png)
 
 
 
